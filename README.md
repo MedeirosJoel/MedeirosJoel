@@ -10,3 +10,13 @@ Gosto de escrever codigos e poemas, acredito  que são expressões de arte que m
 ## 📖 Linguagens e tecnologias que já utilizei
 
 ## 🧠 Interesses
+* Computação  
+Aqui vai um paragrafo do por que me interesso nesse topico 
+* Filosofia  
+Aqui vai um paragrafo do por que me interesso nesse topico
+* Politica  
+Aqui vai um paragrafo do por que me interesso nesse topico
+* Meio Ambiente  
+Aqui vai um paragrafo do por que me interesso nesse topico
+* Arte (literatura)  
+Aqui vai um paragrafo do por que me interesso nesse topico
