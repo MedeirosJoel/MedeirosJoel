@@ -6,7 +6,7 @@ Gosto de escrever codigos e poemas, acredito  que são expressões de arte que m
 ## 🗃 Meus principais projetos
 
 ## 👨‍💻 Experiencias profissionais
-* ***[Setor da Embalagem](https://www.setordaembalagem.com/)***  
+* [***Setor da Embalagem***](https://www.setordaembalagem.com/)  
 WebScrapping de dados com BeautifulSoup de bases publicas de informação para uso privado da empresa.  
 
 ## 📖 Linguagens e tecnologias que já utilizei
