@@ -6,9 +6,12 @@ Gosto de escrever codigos e poemas, acredito  que são expressões de arte que m
 ## 🗃 Meus principais projetos
 
 ## 👨‍💻 Experiencias profissionais
+* ***WebScrapping***  
 
 ## 📖 Linguagens e tecnologias que já utilizei
-
+* ***Python***  
+    * ***BeautifulSoup***  
+    * ***Pandas***  
 ## 🧠 Interesses
 * ***Computação***  
 Aqui vai um paragrafo do por que me interesso nesse topico 
