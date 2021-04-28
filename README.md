@@ -6,12 +6,13 @@ Gosto de escrever codigos e poemas, acredito  que são expressões de arte que m
 ## 🗃 Meus principais projetos
 
 ## 👨‍💻 Experiencias profissionais
-* ***WebScrapping***  
+* ***[Setor da Embalagem](www.setordaembalagem.com)***  
+WebScrapping de dados com BeautifulSoup de bases publicas de informação para uso privado da empresa.  
 
 ## 📖 Linguagens e tecnologias que já utilizei
 * ***Python***  
-    * ***BeautifulSoup***  
-    * ***Pandas***  
+    * BeautifulSoup  
+    * Pandas  
 ## 🧠 Interesses
 * ***Computação***  
 Aqui vai um paragrafo do por que me interesso nesse topico 
