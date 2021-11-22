@@ -16,7 +16,7 @@ WebScrapping de dados com BeautifulSoup de bases publicas de informação para u
 * ***Computação***  
 
 * ***Filosofia***  
-* 
+
 * ***Meio Ambiente***  
 
 * ***Arte (literatura)***  
