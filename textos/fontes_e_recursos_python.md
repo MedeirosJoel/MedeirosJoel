@@ -1,1 +1,0 @@
-# Fontes e Recursos Python
